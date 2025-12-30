@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     3893 MB
     Driver:   32.0.15.7366
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.651 seconds
-- Finished resetting the current domain, in  0.002 seconds
+- Loaded All Assemblies, in  0.087 seconds
+- Finished resetting the current domain, in  0.001 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -27,13 +27,13 @@ XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 <RI> Initialized touch support.
 Input System polling thread started.
-UnloadTime: 0.453400 ms
+UnloadTime: 0.408800 ms
 Steam initializing
 Steam logged in as AnkerGames
 Selected online subsystem SteamOnlineSubsystem
 Steam stats received.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 1.066500 ms
+UnloadTime: 1.145000 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
@@ -41,20 +41,20 @@ Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6505.
-Total: 2.371400 ms (FindLiveObjects: 0.251500 ms CreateObjectMapping: 0.105200 ms MarkObjects: 1.982800 ms  DeleteObjects: 0.026500 ms)
+Total: 2.932700 ms (FindLiveObjects: 0.288500 ms CreateObjectMapping: 0.323800 ms MarkObjects: 2.278300 ms  DeleteObjects: 0.035900 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13737.
-Total: 4.577800 ms (FindLiveObjects: 0.544700 ms CreateObjectMapping: 0.512000 ms MarkObjects: 3.443700 ms  DeleteObjects: 0.077100 ms)
+Total: 5.365400 ms (FindLiveObjects: 0.554400 ms CreateObjectMapping: 0.467700 ms MarkObjects: 4.318500 ms  DeleteObjects: 0.024400 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 6.075500 ms
+UnloadTime: 4.905400 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67996.
-Total: 19.293100 ms (FindLiveObjects: 3.625100 ms CreateObjectMapping: 1.969600 ms MarkObjects: 13.386200 ms  DeleteObjects: 0.311900 ms)
+Total: 19.936200 ms (FindLiveObjects: 2.960900 ms CreateObjectMapping: 2.141300 ms MarkObjects: 14.508800 ms  DeleteObjects: 0.324800 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
@@ -63,18 +63,51 @@ Only custom filters can be played. Please add a custom filter or an audioclip to
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Unloading 3 Unused Serialized files (Serialized files now loaded: 584)
 Unloading 118 unused Assets to reduce memory usage. Loaded Objects now: 121547.
-Total: 37.787700 ms (FindLiveObjects: 6.714900 ms CreateObjectMapping: 6.351600 ms MarkObjects: 23.987400 ms  DeleteObjects: 0.733400 ms)
+Total: 36.915300 ms (FindLiveObjects: 7.550500 ms CreateObjectMapping: 5.296500 ms MarkObjects: 23.367600 ms  DeleteObjects: 0.700200 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
+Using fallback 1 to find tilemap. Scene Belltown_Shrine requires manual fixing.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 594)
+UnloadTime: 6.479700 ms
+Unloading 8581 unused Assets to reduce memory usage. Loaded Objects now: 127001.
+Total: 60.656300 ms (FindLiveObjects: 8.436900 ms CreateObjectMapping: 5.551800 ms MarkObjects: 30.307700 ms  DeleteObjects: 16.359300 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 3410 unused Assets to reduce memory usage. Loaded Objects now: 30352.
+Total: 34.180400 ms (FindLiveObjects: 1.197300 ms CreateObjectMapping: 1.689900 ms MarkObjects: 26.446400 ms  DeleteObjects: 4.846100 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.721900 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 10022 unused Assets to reduce memory usage. Loaded Objects now: 67750.
+Total: 34.524000 ms (FindLiveObjects: 4.975600 ms CreateObjectMapping: 4.047000 ms MarkObjects: 15.421200 ms  DeleteObjects: 10.079600 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 67751.
+Total: 30.136600 ms (FindLiveObjects: 3.667100 ms CreateObjectMapping: 1.937700 ms MarkObjects: 24.450200 ms  DeleteObjects: 0.080900 ms)
+
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
 Shutting down Steam API.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
 Input System module state changed to: ShutdownInProgress.
