@@ -88,3 +88,32 @@ Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 137048.
 Total: 46.609000 ms (FindLiveObjects: 7.774600 ms CreateObjectMapping: 3.099800 ms MarkObjects: 35.272400 ms  DeleteObjects: 0.461700 ms)
 
 Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
+Cannot set the parent of the GameObject 'Slam Effect' while activating or deactivating the parent GameObject 'Shell Fossil Mimic AppearVariant'.
+NullReferenceException: Object reference not set to an instance of an object.
+  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
+  at SilkPossession.Update () [0x00041] in <9e13ef150cb143cfab0aea0766c64843>:0 
+
+Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 613)
+Unloading 3906 unused Assets to reduce memory usage. Loaded Objects now: 131326.
+Total: 56.950600 ms (FindLiveObjects: 11.569800 ms CreateObjectMapping: 3.488000 ms MarkObjects: 31.658300 ms  DeleteObjects: 10.232900 ms)
+
+Cannot set the parent of the GameObject 'Slam Effect' while activating or deactivating the parent GameObject 'Shell Fossil Mimic AppearVariant'.
+Cannot use 'linearVelocity' on a static body.
+Cannot set the parent of the GameObject 'Slam Effect' while activating or deactivating the parent GameObject 'Shell Fossil Mimic AppearVariant'.
+Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 609)
+Unloading 5602 unused Assets to reduce memory usage. Loaded Objects now: 131468.
+Total: 64.328700 ms (FindLiveObjects: 9.397500 ms CreateObjectMapping: 4.088600 ms MarkObjects: 33.716400 ms  DeleteObjects: 17.125200 ms)
+
