@@ -13,7 +13,7 @@ Direct3D:
     VRAM:     3893 MB
     Driver:   32.0.15.7366
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.084 seconds
+- Loaded All Assemblies, in  0.085 seconds
 - Finished resetting the current domain, in  0.001 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
@@ -25,15 +25,14 @@ Begin MonoManager ReloadAssembly
 Using Windows.Gaming.Input
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
-Input System polling thread started.
 <RI> Initialized touch support.
-UnloadTime: 0.413500 ms
+UnloadTime: 0.469100 ms
 Steam initializing
 Steam logged in as AnkerGames
 Selected online subsystem SteamOnlineSubsystem
 Steam stats received.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 2.129200 ms
+UnloadTime: 0.972100 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
@@ -41,224 +40,44 @@ Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6505.
-Total: 2.445200 ms (FindLiveObjects: 0.281300 ms CreateObjectMapping: 0.215700 ms MarkObjects: 1.912100 ms  DeleteObjects: 0.031600 ms)
+Total: 2.689000 ms (FindLiveObjects: 0.338300 ms CreateObjectMapping: 0.213400 ms MarkObjects: 2.089700 ms  DeleteObjects: 0.039500 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13737.
-Total: 4.773300 ms (FindLiveObjects: 0.417700 ms CreateObjectMapping: 0.419800 ms MarkObjects: 3.919300 ms  DeleteObjects: 0.016400 ms)
+Total: 4.201500 ms (FindLiveObjects: 0.420600 ms CreateObjectMapping: 0.422000 ms MarkObjects: 3.290700 ms  DeleteObjects: 0.068000 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 4.690500 ms
+UnloadTime: 4.251000 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67996.
-Total: 18.122200 ms (FindLiveObjects: 3.689200 ms CreateObjectMapping: 2.298200 ms MarkObjects: 11.822100 ms  DeleteObjects: 0.312100 ms)
+Total: 17.587700 ms (FindLiveObjects: 2.850400 ms CreateObjectMapping: 2.389200 ms MarkObjects: 12.044200 ms  DeleteObjects: 0.303200 ms)
 
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 572)
-Unloading 278 unused Assets to reduce memory usage. Loaded Objects now: 111148.
-Total: 31.005500 ms (FindLiveObjects: 5.807900 ms CreateObjectMapping: 4.941200 ms MarkObjects: 19.340400 ms  DeleteObjects: 0.915300 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 120960.
+Total: 38.298400 ms (FindLiveObjects: 9.164600 ms CreateObjectMapping: 5.296200 ms MarkObjects: 23.092100 ms  DeleteObjects: 0.745200 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Can not play a disabled audio source
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 656)
-UnloadTime: 8.130900 ms
-Unloading 7372 unused Assets to reduce memory usage. Loaded Objects now: 127116.
-Total: 60.040100 ms (FindLiveObjects: 8.304300 ms CreateObjectMapping: 5.467000 ms MarkObjects: 26.954800 ms  DeleteObjects: 19.313100 ms)
+Input System polling thread started.
+Joystick connected ("Controller (Xbox One For Windows)").
+Game controller Xbox Controller attached
+Unloading 1 Unused Serialized files (Serialized files now loaded: 619)
+UnloadTime: 10.257000 ms
+Unloading 6654 unused Assets to reduce memory usage. Loaded Objects now: 125599.
+Total: 57.867700 ms (FindLiveObjects: 9.910100 ms CreateObjectMapping: 3.397400 ms MarkObjects: 31.248600 ms  DeleteObjects: 13.311200 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 3332 unused Assets to reduce memory usage. Loaded Objects now: 30502.
-Total: 30.768100 ms (FindLiveObjects: 1.648100 ms CreateObjectMapping: 1.916200 ms MarkObjects: 21.421000 ms  DeleteObjects: 5.782000 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 0.932000 ms
-Loaded saved language code 'EN'
-Restored language code 'EN'
-Unloading 10241 unused Assets to reduce memory usage. Loaded Objects now: 67703.
-Total: 31.413500 ms (FindLiveObjects: 3.458400 ms CreateObjectMapping: 2.555700 ms MarkObjects: 14.853400 ms  DeleteObjects: 10.545800 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 67704.
-Total: 26.503100 ms (FindLiveObjects: 2.956400 ms CreateObjectMapping: 2.086300 ms MarkObjects: 21.382200 ms  DeleteObjects: 0.077800 ms)
-
-MenuButton missing flashEffect!
-Direct3D: detected that using refresh rate causes time drift. Will stop trusting refresh rate until the game window is moved.
-Direct3D: detected that vsync is broken (it does not limit frame rate properly). Delta time will now be calculated using cpu-side time stampling until the game window is moved.
-MenuButton missing flashEffect!
-Making UI menu lean.
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 1 Unused Serialized files (Serialized files now loaded: 572)
-Unloading 287 unused Assets to reduce memory usage. Loaded Objects now: 109835.
-Total: 36.876200 ms (FindLiveObjects: 6.881300 ms CreateObjectMapping: 3.254700 ms MarkObjects: 25.867400 ms  DeleteObjects: 0.872200 ms)
-
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Converting Vertex Colors from Color32 to Color.
-Attempting to set `time` on an audio source that has a resource assigned that is not a clip is ignored!
-Coroutine couldn't be started because the the game object 'CutsceneScreen' is inactive!
-Pushing stat BELLWAYS_FULL_STAT value: 4/10
-Unloading 2 Unused Serialized files (Serialized files now loaded: 641)
-Scene Manager missing from scene Belltown_basement
-UnloadTime: 7.534000 ms
-Unloading 8753 unused Assets to reduce memory usage. Loaded Objects now: 125652.
-Total: 68.689700 ms (FindLiveObjects: 8.706500 ms CreateObjectMapping: 4.805000 ms MarkObjects: 32.751500 ms  DeleteObjects: 22.425900 ms)
-
-Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 7752 unused Assets to reduce memory usage. Loaded Objects now: 26127.
-Total: 32.997900 ms (FindLiveObjects: 1.262600 ms CreateObjectMapping: 1.445400 ms MarkObjects: 20.595000 ms  DeleteObjects: 9.694300 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 0.318600 ms
-Loaded saved language code 'EN'
-Restored language code 'EN'
-Unloading 5670 unused Assets to reduce memory usage. Loaded Objects now: 67910.
-Total: 36.534900 ms (FindLiveObjects: 3.294600 ms CreateObjectMapping: 2.424200 ms MarkObjects: 24.313300 ms  DeleteObjects: 6.502200 ms)
-
-Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 67911.
-Total: 30.977800 ms (FindLiveObjects: 3.193400 ms CreateObjectMapping: 2.027400 ms MarkObjects: 25.690600 ms  DeleteObjects: 0.065900 ms)
+Unloading 7806 unused Assets to reduce memory usage. Loaded Objects now: 25894.
+Total: 31.648700 ms (FindLiveObjects: 1.194300 ms CreateObjectMapping: 1.624100 ms MarkObjects: 21.258800 ms  DeleteObjects: 7.571000 ms)
 
 Shutting down Steam API.
 [Physics::Module] Cleanup current backned.
