@@ -13,8 +13,8 @@ Direct3D:
     VRAM:     3893 MB
     Driver:   32.0.15.7366
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in 17.460 seconds
-- Finished resetting the current domain, in  0.005 seconds
+- Loaded All Assemblies, in  0.086 seconds
+- Finished resetting the current domain, in  0.001 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
 [Physics::Module] Id: 0xf2b8ea05
@@ -25,14 +25,15 @@ Begin MonoManager ReloadAssembly
 Using Windows.Gaming.Input
 XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
+Input System polling thread started.
 <RI> Initialized touch support.
-UnloadTime: 0.527700 ms
+UnloadTime: 0.378900 ms
 Steam initializing
 Steam logged in as AnkerGames
 Selected online subsystem SteamOnlineSubsystem
 Steam stats received.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 0.948700 ms
+UnloadTime: 0.967900 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
@@ -40,80 +41,80 @@ Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6505.
-Total: 2.650500 ms (FindLiveObjects: 0.229400 ms CreateObjectMapping: 0.165500 ms MarkObjects: 2.216300 ms  DeleteObjects: 0.033000 ms)
+Total: 3.214200 ms (FindLiveObjects: 0.283700 ms CreateObjectMapping: 0.206300 ms MarkObjects: 2.682200 ms  DeleteObjects: 0.036400 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13737.
-Total: 5.056100 ms (FindLiveObjects: 0.436600 ms CreateObjectMapping: 0.844700 ms MarkObjects: 3.707500 ms  DeleteObjects: 0.067000 ms)
+Total: 6.135600 ms (FindLiveObjects: 0.402100 ms CreateObjectMapping: 0.521500 ms MarkObjects: 5.185100 ms  DeleteObjects: 0.026600 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
-Input System polling thread started.
-Joystick connected ("Controller (Xbox One For Windows)").
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 4.689000 ms
+UnloadTime: 6.187600 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67996.
-Total: 21.730700 ms (FindLiveObjects: 3.820900 ms CreateObjectMapping: 3.568600 ms MarkObjects: 14.020100 ms  DeleteObjects: 0.320500 ms)
+Total: 16.535200 ms (FindLiveObjects: 3.098600 ms CreateObjectMapping: 1.949500 ms MarkObjects: 11.179500 ms  DeleteObjects: 0.307300 ms)
 
+Joystick disconnected ("").
+Joystick reconnected ("喴翺").
+Game controller Xbox Controller attached
 MenuButton missing flashEffect!
 Making UI menu lean.
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Unloading 3 Unused Serialized files (Serialized files now loaded: 642)
-Unloading 113 unused Assets to reduce memory usage. Loaded Objects now: 134185.
-Total: 36.358500 ms (FindLiveObjects: 7.099800 ms CreateObjectMapping: 5.169600 ms MarkObjects: 23.168000 ms  DeleteObjects: 0.920600 ms)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 587)
+Unloading 110 unused Assets to reduce memory usage. Loaded Objects now: 114537.
+Total: 32.481300 ms (FindLiveObjects: 6.868600 ms CreateObjectMapping: 4.963400 ms MarkObjects: 19.901100 ms  DeleteObjects: 0.747100 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 671)
-Unloading 6173 unused Assets to reduce memory usage. Loaded Objects now: 155526.
-Total: 55.490200 ms (FindLiveObjects: 11.964100 ms CreateObjectMapping: 5.276200 ms MarkObjects: 25.355800 ms  DeleteObjects: 12.893400 ms)
+Pushing stat FLEAS_HALF_STAT value: 8/15
+Pushing stat FLEAS_HALF_STAT value: 8/15
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
+Pushing stat ALL_TOOLS_STAT value: 14/51
+Unloading 1 Unused Serialized files (Serialized files now loaded: 611)
+UnloadTime: 4.874600 ms
+Unloading 9508 unused Assets to reduce memory usage. Loaded Objects now: 127892.
+Total: 53.973900 ms (FindLiveObjects: 10.328000 ms CreateObjectMapping: 3.552500 ms MarkObjects: 22.102700 ms  DeleteObjects: 17.989800 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 671)
-Unloading 3052 unused Assets to reduce memory usage. Loaded Objects now: 155566.
-Total: 50.952100 ms (FindLiveObjects: 10.335300 ms CreateObjectMapping: 3.461800 ms MarkObjects: 27.410500 ms  DeleteObjects: 9.743500 ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
+Unloading 7648 unused Assets to reduce memory usage. Loaded Objects now: 26020.
+Total: 36.479900 ms (FindLiveObjects: 1.222700 ms CreateObjectMapping: 1.670400 ms MarkObjects: 24.549800 ms  DeleteObjects: 9.036500 ms)
 
-Unloading 1 Unused Serialized files (Serialized files now loaded: 661)
-UnloadTime: 4.510400 ms
-Unloading 6610 unused Assets to reduce memory usage. Loaded Objects now: 127543.
-Total: 61.328400 ms (FindLiveObjects: 8.549700 ms CreateObjectMapping: 3.508300 ms MarkObjects: 30.888200 ms  DeleteObjects: 18.381800 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
+UnloadTime: 0.781300 ms
+Loaded saved language code 'EN'
+Restored language code 'EN'
+Unloading 5671 unused Assets to reduce memory usage. Loaded Objects now: 67683.
+Total: 28.740300 ms (FindLiveObjects: 4.054400 ms CreateObjectMapping: 2.608700 ms MarkObjects: 15.567600 ms  DeleteObjects: 6.508900 ms)
 
-Unloading 2 Unused Serialized files (Serialized files now loaded: 656)
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 137048.
-Total: 46.609000 ms (FindLiveObjects: 7.774600 ms CreateObjectMapping: 3.099800 ms MarkObjects: 35.272400 ms  DeleteObjects: 0.461700 ms)
+Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 67684.
+Total: 19.115600 ms (FindLiveObjects: 3.312700 ms CreateObjectMapping: 2.007600 ms MarkObjects: 13.715900 ms  DeleteObjects: 0.079000 ms)
 
-Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
-Cannot set the parent of the GameObject 'Slam Effect' while activating or deactivating the parent GameObject 'Shell Fossil Mimic AppearVariant'.
-NullReferenceException: Object reference not set to an instance of an object.
-  at UnityEngine.Bindings.ThrowHelper.ThrowNullReferenceException (System.Object obj) [0x00018] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at UnityEngine.GameObject.get_transform () [0x00006] in <efee8e9be36d4dfe98a6cfef804f28b8>:0 
-  at SilkPossession.Update () [0x00041] in <9e13ef150cb143cfab0aea0766c64843>:0 
-
-Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 613)
-Unloading 3906 unused Assets to reduce memory usage. Loaded Objects now: 131326.
-Total: 56.950600 ms (FindLiveObjects: 11.569800 ms CreateObjectMapping: 3.488000 ms MarkObjects: 31.658300 ms  DeleteObjects: 10.232900 ms)
-
-Cannot set the parent of the GameObject 'Slam Effect' while activating or deactivating the parent GameObject 'Shell Fossil Mimic AppearVariant'.
-Cannot use 'linearVelocity' on a static body.
-Cannot set the parent of the GameObject 'Slam Effect' while activating or deactivating the parent GameObject 'Shell Fossil Mimic AppearVariant'.
-Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
-Using fallback 1 to find tilemap. Scene Bellshrine requires manual fixing.
-Unloading 1 Unused Serialized files (Serialized files now loaded: 609)
-Unloading 5602 unused Assets to reduce memory usage. Loaded Objects now: 131468.
-Total: 64.328700 ms (FindLiveObjects: 9.397500 ms CreateObjectMapping: 4.088600 ms MarkObjects: 33.716400 ms  DeleteObjects: 17.125200 ms)
-
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Couldn't find a Game Manager, make sure one exists in the scene.
+Shutting down Steam API.
+[Physics::Module] Cleanup current backned.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input System polling thread stopped.
+Input System polling thread exited.
+Input System module state changed to: Shutdown.
