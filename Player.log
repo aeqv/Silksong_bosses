@@ -13,7 +13,7 @@ Direct3D:
     VRAM:     3893 MB
     Driver:   32.0.15.7366
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.086 seconds
+- Loaded All Assemblies, in  0.084 seconds
 - Finished resetting the current domain, in  0.001 seconds
 [Physics::Module] Selected backend.
 [Physics::Module] Name: PhysX
@@ -27,13 +27,13 @@ XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 Input System polling thread started.
 <RI> Initialized touch support.
-UnloadTime: 0.378900 ms
+UnloadTime: 0.820900 ms
 Steam initializing
 Steam logged in as AnkerGames
 Selected online subsystem SteamOnlineSubsystem
 Steam stats received.
 Unloading 5 Unused Serialized files (Serialized files now loaded: 528)
-UnloadTime: 0.967900 ms
+UnloadTime: 1.352500 ms
 Discovered supported languages: DE, EN, ES, FR, IT, JA, KO, PT, RU, ZH
 Loaded saved language code 'EN'
 Restored language code 'EN'
@@ -41,23 +41,23 @@ Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
 Couldn't find GameCameras, make sure one exists in the scene.
 Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 6505.
-Total: 3.214200 ms (FindLiveObjects: 0.283700 ms CreateObjectMapping: 0.206300 ms MarkObjects: 2.682200 ms  DeleteObjects: 0.036400 ms)
+Total: 2.477300 ms (FindLiveObjects: 0.246700 ms CreateObjectMapping: 0.184100 ms MarkObjects: 1.973300 ms  DeleteObjects: 0.069000 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 528)
 Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 13737.
-Total: 6.135600 ms (FindLiveObjects: 0.402100 ms CreateObjectMapping: 0.521500 ms MarkObjects: 5.185100 ms  DeleteObjects: 0.026600 ms)
+Total: 4.045900 ms (FindLiveObjects: 0.436500 ms CreateObjectMapping: 0.442900 ms MarkObjects: 3.151600 ms  DeleteObjects: 0.014600 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 582)
 Couldn't find GameCameras, make sure one exists in the scene.
 Couldn't find a Game Manager, make sure one exists in the scene.
-UnloadTime: 6.187600 ms
+UnloadTime: 6.407200 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
 Unloading 73 unused Assets to reduce memory usage. Loaded Objects now: 67996.
-Total: 16.535200 ms (FindLiveObjects: 3.098600 ms CreateObjectMapping: 1.949500 ms MarkObjects: 11.179500 ms  DeleteObjects: 0.307300 ms)
+Total: 18.371800 ms (FindLiveObjects: 3.547200 ms CreateObjectMapping: 1.985600 ms MarkObjects: 12.512600 ms  DeleteObjects: 0.325700 ms)
 
 Joystick disconnected ("").
-Joystick reconnected ("喴翺").
+Joystick reconnected ("⑹翺").
 Game controller Xbox Controller attached
 MenuButton missing flashEffect!
 Making UI menu lean.
@@ -66,51 +66,395 @@ Only custom filters can be played. Please add a custom filter or an audioclip to
 Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
 Unloading 3 Unused Serialized files (Serialized files now loaded: 587)
 Unloading 110 unused Assets to reduce memory usage. Loaded Objects now: 114537.
-Total: 32.481300 ms (FindLiveObjects: 6.868600 ms CreateObjectMapping: 4.963400 ms MarkObjects: 19.901100 ms  DeleteObjects: 0.747100 ms)
+Total: 35.536700 ms (FindLiveObjects: 7.465100 ms CreateObjectMapping: 5.068000 ms MarkObjects: 22.288300 ms  DeleteObjects: 0.714000 ms)
 
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
 Converting Vertex Colors from Color32 to Color.
-Pushing stat FLEAS_HALF_STAT value: 8/15
-Pushing stat FLEAS_HALF_STAT value: 8/15
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Coroutine couldn't be started because the the game object 'Camera Wind Region' is inactive!
-Pushing stat ALL_TOOLS_STAT value: 14/51
-Unloading 1 Unused Serialized files (Serialized files now loaded: 611)
-UnloadTime: 4.874600 ms
-Unloading 9508 unused Assets to reduce memory usage. Loaded Objects now: 127892.
-Total: 53.973900 ms (FindLiveObjects: 10.328000 ms CreateObjectMapping: 3.552500 ms MarkObjects: 22.102700 ms  DeleteObjects: 17.989800 ms)
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unexpected timestamp values detected. This can occur in H.264 videos not encoded with the baseline profile. Timestamps will be skewed to correct the playback for archive:/CAB-ceb42d51c62f5a2363e3a1def0c3288b/CAB-ceb42d51c62f5a2363e3a1def0c3288b.resource
+Unloading 2 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 5756 unused Assets to reduce memory usage. Loaded Objects now: 136200.
+Total: 62.363600 ms (FindLiveObjects: 10.389000 ms CreateObjectMapping: 3.467400 ms MarkObjects: 30.820900 ms  DeleteObjects: 17.685000 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4158 unused Assets to reduce memory usage. Loaded Objects now: 136217.
+Total: 50.612900 ms (FindLiveObjects: 7.783600 ms CreateObjectMapping: 5.184100 ms MarkObjects: 23.071000 ms  DeleteObjects: 14.573000 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4156 unused Assets to reduce memory usage. Loaded Objects now: 136191.
+Total: 56.443200 ms (FindLiveObjects: 8.292100 ms CreateObjectMapping: 3.397000 ms MarkObjects: 29.293800 ms  DeleteObjects: 15.459900 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4156 unused Assets to reduce memory usage. Loaded Objects now: 136208.
+Total: 53.618900 ms (FindLiveObjects: 10.088200 ms CreateObjectMapping: 3.437300 ms MarkObjects: 24.210000 ms  DeleteObjects: 15.882700 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4154 unused Assets to reduce memory usage. Loaded Objects now: 136217.
+Total: 50.823200 ms (FindLiveObjects: 8.494400 ms CreateObjectMapping: 3.351200 ms MarkObjects: 23.863600 ms  DeleteObjects: 15.112800 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4156 unused Assets to reduce memory usage. Loaded Objects now: 136226.
+Total: 59.887600 ms (FindLiveObjects: 10.038700 ms CreateObjectMapping: 3.378500 ms MarkObjects: 31.303300 ms  DeleteObjects: 15.166600 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4156 unused Assets to reduce memory usage. Loaded Objects now: 136230.
+Total: 53.884700 ms (FindLiveObjects: 7.750800 ms CreateObjectMapping: 3.398800 ms MarkObjects: 27.096600 ms  DeleteObjects: 15.637900 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4154 unused Assets to reduce memory usage. Loaded Objects now: 136237.
+Total: 50.454400 ms (FindLiveObjects: 8.446500 ms CreateObjectMapping: 3.389200 ms MarkObjects: 22.545800 ms  DeleteObjects: 16.071800 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4154 unused Assets to reduce memory usage. Loaded Objects now: 136245.
+Total: 53.665000 ms (FindLiveObjects: 10.948600 ms CreateObjectMapping: 4.600100 ms MarkObjects: 22.865500 ms  DeleteObjects: 15.250200 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4154 unused Assets to reduce memory usage. Loaded Objects now: 136255.
+Total: 53.224900 ms (FindLiveObjects: 7.711100 ms CreateObjectMapping: 3.485200 ms MarkObjects: 26.040100 ms  DeleteObjects: 15.988000 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4154 unused Assets to reduce memory usage. Loaded Objects now: 136265.
+Total: 52.180500 ms (FindLiveObjects: 9.199700 ms CreateObjectMapping: 3.393700 ms MarkObjects: 24.770900 ms  DeleteObjects: 14.814700 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4154 unused Assets to reduce memory usage. Loaded Objects now: 136275.
+Total: 52.469600 ms (FindLiveObjects: 8.442200 ms CreateObjectMapping: 3.526100 ms MarkObjects: 24.654100 ms  DeleteObjects: 15.846800 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4154 unused Assets to reduce memory usage. Loaded Objects now: 136285.
+Total: 51.995400 ms (FindLiveObjects: 9.382000 ms CreateObjectMapping: 3.445000 ms MarkObjects: 24.079900 ms  DeleteObjects: 15.088100 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4154 unused Assets to reduce memory usage. Loaded Objects now: 136290.
+Total: 52.017200 ms (FindLiveObjects: 8.942100 ms CreateObjectMapping: 3.435100 ms MarkObjects: 24.287500 ms  DeleteObjects: 15.351300 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4154 unused Assets to reduce memory usage. Loaded Objects now: 136303.
+Total: 53.249600 ms (FindLiveObjects: 9.770500 ms CreateObjectMapping: 3.459600 ms MarkObjects: 24.851600 ms  DeleteObjects: 15.167400 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4154 unused Assets to reduce memory usage. Loaded Objects now: 136311.
+Total: 53.191200 ms (FindLiveObjects: 7.810600 ms CreateObjectMapping: 3.755700 ms MarkObjects: 25.170700 ms  DeleteObjects: 16.453400 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4154 unused Assets to reduce memory usage. Loaded Objects now: 136319.
+Total: 53.425000 ms (FindLiveObjects: 8.959900 ms CreateObjectMapping: 3.483600 ms MarkObjects: 24.826800 ms  DeleteObjects: 16.153400 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4154 unused Assets to reduce memory usage. Loaded Objects now: 136327.
+Total: 54.152000 ms (FindLiveObjects: 10.382100 ms CreateObjectMapping: 3.437000 ms MarkObjects: 24.578000 ms  DeleteObjects: 15.754400 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4155 unused Assets to reduce memory usage. Loaded Objects now: 136334.
+Total: 52.162400 ms (FindLiveObjects: 7.689300 ms CreateObjectMapping: 3.435000 ms MarkObjects: 25.585300 ms  DeleteObjects: 15.452300 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4154 unused Assets to reduce memory usage. Loaded Objects now: 136343.
+Total: 54.795000 ms (FindLiveObjects: 9.024100 ms CreateObjectMapping: 3.420200 ms MarkObjects: 26.910700 ms  DeleteObjects: 15.438700 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4154 unused Assets to reduce memory usage. Loaded Objects now: 136351.
+Total: 52.965600 ms (FindLiveObjects: 10.201800 ms CreateObjectMapping: 3.543600 ms MarkObjects: 24.354500 ms  DeleteObjects: 14.865200 ms)
+
+Game controller Xbox Controller detached.
+Joystick disconnected ("⑹翺").
+Joystick reconnected ("⑹翺").
+Game controller Xbox Controller attached
+Game controller Xbox Controller detached.
+Joystick disconnected ("⑹翺").
+Joystick reconnected ("⑹翺").
+Game controller Xbox Controller attached
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4158 unused Assets to reduce memory usage. Loaded Objects now: 136372.
+Total: 62.745200 ms (FindLiveObjects: 11.537400 ms CreateObjectMapping: 3.396400 ms MarkObjects: 32.331800 ms  DeleteObjects: 15.478400 ms)
+
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 617)
+Unloading 4154 unused Assets to reduce memory usage. Loaded Objects now: 136378.
+Total: 51.682100 ms (FindLiveObjects: 8.070800 ms CreateObjectMapping: 3.455600 ms MarkObjects: 24.824900 ms  DeleteObjects: 15.329500 ms)
+
+Game controller Xbox Controller detached.
+Joystick disconnected ("⑹翺").
+Joystick reconnected ("⑹翺").
+Game controller Xbox Controller attached
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Can not play a disabled audio source
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Audio Player Actor Distant V2(Clone)).
+The referenced script (Unknown) on this Behaviour is missing!
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+Could Not Create Action: : Behaviour: Sing:  (Maybe the script was removed?)
+The referenced script on this Behaviour (Game Object 'Gate NPC') is missing!
+Failed to retrieve achievement state for DEFEATED_LAST_JUDGE_1
+Pushing achievement DEFEATED_LAST_JUDGE_1
+Steam achievement DEFEATED_LAST_JUDGE_1 (0/0) upload complete
+Unloading 1 Unused Serialized files (Serialized files now loaded: 579)
+UnloadTime: 6.832000 ms
+Unloading 7702 unused Assets to reduce memory usage. Loaded Objects now: 129543.
+Total: 62.112000 ms (FindLiveObjects: 8.438400 ms CreateObjectMapping: 3.457000 ms MarkObjects: 31.287900 ms  DeleteObjects: 18.927400 ms)
 
 Unloading 0 Unused Serialized files (Serialized files now loaded: 526)
-Unloading 7648 unused Assets to reduce memory usage. Loaded Objects now: 26020.
-Total: 36.479900 ms (FindLiveObjects: 1.222700 ms CreateObjectMapping: 1.670400 ms MarkObjects: 24.549800 ms  DeleteObjects: 9.036500 ms)
+Unloading 7639 unused Assets to reduce memory usage. Loaded Objects now: 26224.
+Total: 33.483700 ms (FindLiveObjects: 1.196700 ms CreateObjectMapping: 1.558300 ms MarkObjects: 22.622100 ms  DeleteObjects: 8.106100 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 580)
-UnloadTime: 0.781300 ms
+UnloadTime: 0.701400 ms
 Loaded saved language code 'EN'
 Restored language code 'EN'
-Unloading 5671 unused Assets to reduce memory usage. Loaded Objects now: 67683.
-Total: 28.740300 ms (FindLiveObjects: 4.054400 ms CreateObjectMapping: 2.608700 ms MarkObjects: 15.567600 ms  DeleteObjects: 6.508900 ms)
+Unloading 5606 unused Assets to reduce memory usage. Loaded Objects now: 67950.
+Total: 38.721100 ms (FindLiveObjects: 4.859200 ms CreateObjectMapping: 3.007700 ms MarkObjects: 24.322300 ms  DeleteObjects: 6.531400 ms)
 
 Unloading 1 Unused Serialized files (Serialized files now loaded: 578)
-Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 67684.
-Total: 19.115600 ms (FindLiveObjects: 3.312700 ms CreateObjectMapping: 2.007600 ms MarkObjects: 13.715900 ms  DeleteObjects: 0.079000 ms)
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 67951.
+Total: 31.086700 ms (FindLiveObjects: 2.929000 ms CreateObjectMapping: 1.976100 ms MarkObjects: 26.086100 ms  DeleteObjects: 0.094900 ms)
 
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
-Couldn't find a Game Manager, make sure one exists in the scene.
 Shutting down Steam API.
 [Physics::Module] Cleanup current backned.
 [Physics::Module] Id: 0xf2b8ea05
